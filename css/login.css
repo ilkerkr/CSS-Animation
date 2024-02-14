@@ -5,14 +5,20 @@
 }
 
 section {
+  margin: auto;
+  max-width: 1600px;
+}
+
+.hero {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
   width: 100%;
-  gap: 5rem;
+  gap: 3rem;
   background-image: linear-gradient(#004f5a, #000e2e);
+  overflow: hidden;
 }
 .logo a {
   color: #fff;
@@ -145,8 +151,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  position: absolute;
-  bottom: -70px;
+  transform: translateY(70px);
 }
 
 @keyframes bubble {
