@@ -151,7 +151,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  transform: translateY(70px);
+  transform: translateY(100px);
 }
 
 @keyframes bubble {
