@@ -1,6 +1,8 @@
 <h1>Coventic Page</h1>
 
-[👉click here to login Sammy Shark](https://ilkerkr.github.io/CSS-Animation/)
+![coventic-page-gif](./img/Coventic-GoogleChrome2024-02-1916-10-23-ezgif.com-video-to-gif-converter.gif)
+
+[👉click here to login Coventic Page](https://ilkerkr.github.io/CSS-Animation/)
 
 <h2>Descriptions</h2>
 <p>
